@@ -1,4 +1,8 @@
-###  Welcome... 🖖
+###  Hello World... 🖖
+
+Meu nome é Monique Tenório, seja bem-vindo. 
+Sou Desenvolvedora Front End Junior e cinéfila nas horas vagas.
+
 <div align="center">
   <a href="https://github.com/tenorionique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenorionique&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
