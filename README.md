@@ -1,7 +1,5 @@
 ###  Hello World... 🖖
 
-Meu nome é Monique Tenório, seja bem-vindo. 
-Sou Desenvolvedora Front End Junior e cinéfila nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/tenorionique">
